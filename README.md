@@ -1,3 +1,5 @@
+<img width="1905" height="878" alt="RFM Dashboard 1" src="https://github.com/user-attachments/assets/7aeba3fd-338c-4f44-9d30-2198d5f64875" />
+<img width="1906" height="878" alt="RFM Dashboard 2" src="https://github.com/user-attachments/assets/b1e5edb0-210a-4205-afe6-24c8463e02c4" />
 # rfm-customer-segmentation
 ```markdown
 # 🛍️ E-Commerce Customer Segmentation (RFM) Dashboard
